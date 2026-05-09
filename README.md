@@ -1,7 +1,7 @@
 # Country Explorer App
 
-**Name:** [Your Name Here]  
-**Student ID:** [Your ID Here]  
+**Name:** [Abel Bete]  
+**Student ID:** [ATE/4222/15]  
 
 ## 1. Track Chosen
 **TRACK A — Country Explorer App** (API: RestCountries)
